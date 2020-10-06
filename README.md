@@ -11,4 +11,4 @@
 -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=mcarfagno&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&layout=compact)](https://github.com/mcarfagno/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&layout=compact)
