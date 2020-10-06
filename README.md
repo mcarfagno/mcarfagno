@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github stats](https://github-readme-stats.vercel.app/api?username=mcarfagno&show_icons=true&theme=onedark)
+![github stats](https://github-readme-stats.vercel.app/api?username=mcarfagno&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&exclude_repo=utils,mcarfagno.github.io&layout=compact)
