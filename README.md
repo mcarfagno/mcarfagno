@@ -1,3 +1,10 @@
+<p align="center">
+<!--     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors"> -->
+<!--         <img src="https://img.shields.io/github/contributors/badges/shields" /></a> -->
+  <img src=https://img.shields.io/badge/GIT%20GUD-R%20U%20CASUL%3F-yellow?link=https://www.youtube.com/watch?v=oyA8odjCzZ4&link=https://www.youtube.com/watch?v=oyA8odjCzZ4></a>
+   
+</p>
+
 <!--
 ### Hi there 👋
 **mcarfagno/mcarfagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started:- 🔭 I'm currently working on ...
