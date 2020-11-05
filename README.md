@@ -31,8 +31,8 @@
 
 ## ⚡ GitHub Stats
 <a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&hide_title=truet&count_private=true&show_icons=true" />
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&hide_title=truet&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&hide_title=true&layout=compact&exclude_repo=utils,mcarfagno.github.io" />
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&hide_title=true&layout=compact&exclude_repo=utils,mcarfagno.github.io" />
 </a>
