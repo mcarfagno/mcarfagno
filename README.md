@@ -13,6 +13,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# <img src="https://raw.githubusercontent.com/mcarfagno/mcarfagno/main/praise_the_sun.gif" width="50px"> Hello there! 
+- :rocket: I'm currently working on mobile robots in agriculture.
+- 🌱 I'm currently learning Reinforcement Learning.
 
 ## 🔧 Technologies & Tools
 ![linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d70a53)
