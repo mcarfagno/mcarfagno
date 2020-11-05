@@ -13,6 +13,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github stats](https://github-readme-stats.vercel.app/api?username=mcarfagno&count_private=true&show_icons=true)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&exclude_repo=utils,mcarfagno.github.io)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/mcarfagno/mcarfagno">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&count_private=true&show_icons=true" />
+  
+</a>
+
+<a href="https://github.com/mcarfagno/mcarfagno">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&exclude_repo=utils,mcarfagno.github.io" />
+  
+</a>
