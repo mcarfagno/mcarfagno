@@ -18,6 +18,7 @@
 - 🌱 I'm currently learning Reinforcement Learning.
 
 ## 🔧 Technologies & Tools
+<!-- coutresy of https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 ![linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d70a53)
 ![python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,7 +28,7 @@
 <!--![macos](https://img.shields.io/badge/MacOS-informational?style=for-the-badge&logo=Apple&logoColor=white&color=4f5b66)-->
 
 ## :desktop_computer: WorkSpace
-![macbook](https://img.shields.io/badge/apple-macbook%20pro%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
+![macbook](https://img.shields.io/badge/apple-macbook%20pro%2013%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
 
 ## ⚡ GitHub Stats
 <a href="https://github.com/mcarfagno/mcarfagno">
