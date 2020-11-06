@@ -15,7 +15,7 @@
 -->
 # <img src="https://raw.githubusercontent.com/mcarfagno/mcarfagno/main/praise_the_sun.gif" width="50px"> Hello there! 
 - :rocket: I'm currently working on mobile robots in agriculture.
-- 🌱 I'm currently learning Reinforcement Learning.
+- 🌱 I'm currently learning ROS2 and Reinforcement Learning.
 
 ## 🔧 Technologies & Tools
 <!-- coutresy of https://github.com/alexandresanlim/Badges4-README.md-Profile-->
@@ -25,7 +25,7 @@
 ![ros](https://img.shields.io/badge/ROS-informational?&style=for-the-badge&color=000080)
 ![torch](https://img.shields.io/badge/PyTorch-informational?&style=for-the-badge&logo=PyTorch&logoColor=white&color=EE4C2C)
 ![jupyter](https://img.shields.io/badge/Jupyter-informational?&style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626)
-<!--![macos](https://img.shields.io/badge/MacOS-informational?style=for-the-badge&logo=Apple&logoColor=white&color=4f5b66)-->
+![OpenCV](https://img.shields.io/badge/OpenCV-informational?&style=for-the-badge&color=blue)
 
 ## :desktop_computer: WorkSpace
 ![macbook](https://img.shields.io/badge/apple-macbook%20pro%2013%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
