@@ -22,6 +22,7 @@
 ![linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d70a53)
 ![python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![ros](https://img.shields.io/badge/ROS-informational?&style=for-the-badge&color=000080)
 ![torch](https://img.shields.io/badge/PyTorch-informational?&style=for-the-badge&logo=PyTorch&logoColor=white&color=EE4C2C)
 ![jupyter](https://img.shields.io/badge/Jupyter-informational?&style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626)
@@ -32,8 +33,11 @@
 
 ## ⚡ GitHub Stats
 <a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&hide_title=truet&count_private=true&show_icons=true" />
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&hide_title=truet&count_private=true&show_icons=true&theme=dark" />
 </a>
+<!-- Language count has no dark theme QQ
 <a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&hide_title=true&layout=compact&exclude_repo=utils,mcarfagno.github.io" />
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&hide_title=true&layout=compact&&theme=darkexclude_repo=utils,mcarfagno.github.io" />
 </a>
+-->
+
