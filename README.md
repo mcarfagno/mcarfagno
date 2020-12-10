@@ -33,7 +33,7 @@
 
 ## ⚡ GitHub Stats
 <a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&hide_title=truet&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&hide_title=truet&count_private=true&show_icons=true&theme=nord" />
 </a>
 <!-- Language count has no dark theme QQ
 <a href="https://github.com/mcarfagno/mcarfagno">
