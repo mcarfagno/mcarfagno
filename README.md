@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <img src="https://raw.githubusercontent.com/mcarfagno/mcarfagno/main/praise_the_sun.gif" width="50px"> Hello there! 
+# <img src="https://raw.githubusercontent.com/mcarfagno/mcarfagno/main/praise_the_sun.gif" width="75px"> Hello there! 
 - :rocket: I'm currently working on mobile robots in agriculture.
 - 🌱 I'm currently learning ROS2 and Reinforcement Learning.
 
@@ -32,7 +32,7 @@
 
 ## ⚡ GitHub Stats
 <a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&hide_title=truet&count_private=true&show_icons=true&theme=nord" />
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <!-- Language count has no dark theme QQ
 <a href="https://github.com/mcarfagno/mcarfagno">
