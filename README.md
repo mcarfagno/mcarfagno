@@ -9,11 +9,12 @@ My name is Marcello and I'm a robotics software engineer. I'm from Italy, but li
 
 ## 🔧 Technologies & Tools
 <!-- coutresy of https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 ![linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d70a53)
 ![](https://img.shields.io/badge/vim-informational?style=for-the-badge&logo=Vim&logoColor=white&color=019733)
 ![python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ros](https://img.shields.io/badge/ROS-informational?&style=for-the-badge&color=000080)
+![ros](https://img.shields.io/badge/ROS-informational?&style=for-the-badge&logo=ROS&logoColor=white&color=000080)
 ![torch](https://img.shields.io/badge/PyTorch-informational?&style=for-the-badge&logo=PyTorch&logoColor=white&color=EE4C2C)
 ![jupyter](https://img.shields.io/badge/Jupyter-informational?&style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626)
 ![OpenCV](https://img.shields.io/badge/OpenCV-informational?&style=for-the-badge&color=blue)
@@ -30,6 +31,6 @@ My name is Marcello and I'm a robotics software engineer. I'm from Italy, but li
   <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&layout=compact&bg_color=30,5f72bd,9b23ea&title_color=fff&text_color=fff&icon_color=fff&exclude_repo=utils,mcarfagno.github.io" />
 </a>
 
-<a href="https://github.com/mcarfagno/mcarfagno">
+<!-- a href="https://github.com/mcarfagno/mcarfagno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcarfagno&repo=mcarfagno.github.io&bg_color=30,5f72bd,9b23ea&title_color=fff&text_color=fff&icon_color=fff" />
-</a>
+</a -->
