@@ -2,24 +2,15 @@
   <a href="https://www.youtube.com/watch?v=oyA8odjCzZ4"><img src="https://img.shields.io/badge/GIT%20GUD-R%20U%20CASUL%3F-yellow?style=for-the-badge" alt="git_gud"/></a>
 </p>-->
 
-<!--
-### Hi there 👋
-**mcarfagno/mcarfagno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started:- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# <img src="https://raw.githubusercontent.com/mcarfagno/mcarfagno/main/praise_the_sun.gif" width="75px"> Hello there! 
+# <img src="https://raw.githubusercontent.com/mcarfagno/mcarfagno/main/praise_the_sun.gif" width="75px"> Hello there!
+My name is Marcello and I'm a robotics software engineer. I'm from Italy, but living in UK and currently working at [dynium](https://dynium.ai/).
 - :rocket: I'm currently working on mobile robots in agriculture.
 - 🌱 I'm currently learning ROS2 and Reinforcement Learning.
 
 ## 🔧 Technologies & Tools
 <!-- coutresy of https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 ![linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d70a53)
+![](https://img.shields.io/badge/vim-informational?style=for-the-badge&logo=Vim&logoColor=white&color=019733)
 ![python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ros](https://img.shields.io/badge/ROS-informational?&style=for-the-badge&color=000080)
@@ -32,11 +23,13 @@
 
 ## ⚡ GitHub Stats
 <a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mcarfagno&count_private=true&show_icons=true&bg_color=30,5f72bd,9b23ea&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
-<!-- Language count has no dark theme QQ
-<a href="https://github.com/mcarfagno/mcarfagno">
-  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&hide_title=true&layout=compact&&theme=darkexclude_repo=utils,mcarfagno.github.io" />
-</a>
--->
 
+<a href="https://github.com/mcarfagno/mcarfagno">
+  <img align="center" height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarfagno&layout=compact&bg_color=30,5f72bd,9b23ea&title_color=fff&text_color=fff&icon_color=fff&exclude_repo=utils,mcarfagno.github.io" />
+</a>
+
+<a href="https://github.com/mcarfagno/mcarfagno">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcarfagno&repo=mcarfagno.github.io&bg_color=30,5f72bd,9b23ea&title_color=fff&text_color=fff&icon_color=fff" />
+</a>
